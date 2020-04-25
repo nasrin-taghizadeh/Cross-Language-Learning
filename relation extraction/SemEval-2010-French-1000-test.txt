@@ -1,0 +1,405 @@
+Message-Topic(e1,e2)	Les <e1> vérifications </e1> les plus communes concernaient les <e2> déchets </e2> et le recyclage . .
+Product-Producer(e2,e1)	La <e1> compagnie </e1> fabrique des <e2> chaises </e2> en plastique .
+Instrument-Agency(e2,e1)	Le <e1> maître </e1> d'école enseigne la leçon avec un <e2> bâton </e2> .
+Entity-Destination(e1,e2)	Le suspect jeta le <e1> cadavre </e1> dans un <e2> réservoir </e2> local .
+Cause-Effect(e2,e1)	La <e1> grippe </e1> aviaire est une maladie infectieuse des oiseaux causées par des souches de type A du <e2> virus </e2> de la grippe .
+Component-Whole(e1,e2)	L' <e1> oreille </e1> de l' <e2> éléphant </e2> d'Afrique est beaucoup plus grande - mesure 183 cm par 114 cm que l'éléphant de brousse .
+Product-Producer(e1,e2)	Un enfant est dit un  <e1> mensonge </e1> depuis plusieurs années par leurs  <e2> parents </e2> avant qu'il / elle se rend compte qu'un Père NoÃ«l n'existe pas .
+Member-Collection(e2,e1)	Skype, un logiciel gratuit, permet une  <e1> connexion </e1> de plusieurs  <e2> utilisateurs </e2> d'ordinateurs à se joindre à un appel de conférence en ligne sans encourir de frais de téléphone .
+Component-Whole(e1,e2)	La scène était répugnant représailles contre son frère Philippe, qui loue la  <e1> chambre </e1> dans cette  <e2> maison </e2> d'appartements sur la rue Lombard .
+Message-Topic(e1,e2)	Cette  <e1> thèse </e1> définit les  <e2> caractéristiques cliniques </e2> de la maladie amyloïde .
+Entity-Destination(e1,e2)	Dix millions de  <e1> survivants </e1> du séisme ont emménagé dans des  <e2> maisons </e2> de fortune .
+Other	Sur les conseils d'un ami, j'ai acheté une Choucroute et  <e1> fabricant </e1>  <e2> kimchi </e2> ici et il est tout simplement fabuleux (et pas cher aussi) .
+Entity-Destination(e1,e2)	La mission de la NASA Kepler envoie les  <e1> noms </e1> dans l' <e2> espace </e2> .
+Product-Producer(e2,e1)	En tant qu' <e1> entreprise </e1>  <e2> de paysage </e2> à Atlanta, nous savons que les plantes se développent dans cette zone de plantation et de connaissons les modèles d'aménagement paysager optimaux pour les chantiers et les entreprises locales .
+Entity-Origin(e1,e2)	Comme je contemplais si j'avais un favori dans la catégorie rose, un  <e1> cadeau </e1> est arrivé d'un  <e2> ami </e2> doux .
+Entity-Origin(e1,e2)	Le mâle a pris entièrement soin du  <e1> jeune </e1> qui avait quitté le  <e2> nid </e2> .
+Entity-Destination(e1,e2)	La célèbre  <e1> actrice </e1> est arrivée à l' <e2> aéroport </e2> .
+Other	Un serveur FTP est un moyen peu couteux et relativement simple d’utiliser un outil qui fonctionne trés bien pour le  <e1> partage de fichiers </e1> sur  <e2> Internet </e2> .
+Member-Collection(e2,e1)	Sous cette dénomination, il y a un  <e1> zoo </e1> des  <e2> bêtes </e2> redoutables, dont plusieurs anthropophages, ainsi que les corps avec sphynx de lions et de têtes humaines .
+Product-Producer(e1,e2)	La  <e1> chanson </e1> a été composée pour un  <e2> musicien </e2> célèbre brésilien .
+Message-Topic(e1,e2)	Cet  <e1> aperçu </e1> porte sur la  <e2> spiritualité </e2> , l’ésotérisme, le mysticisme, la religion et/ou la parapsychologie .
+Content-Container(e1,e2)	La  <e1> bombe </e1> était dans une  <e2> valise </e2> chargée à Francfort et transférée au Boeing 747 vouée à l’échec à Londres .
+Product-Producer(e2,e1)	J'ai passé un an à travailler pour une  <e1> compagnie </e1>  <e2> de logiciels </e2> pour rembourser mes prêts étudiants .
+Other	Le  <e1> capitaine </e1> et l' <e2> équipage </e2> du Steve Irwin sont reconnaissants pour le soutien de la ville de Fremantle et le maire Brad Pettitt pour l’accueil de cet événement .
+Entity-Origin(e1,e2)	 <e1> L'huile </e1>  <e2> de sésame </e2> biologique a un effet antibactérien et anti-imflammatoire .
+Product-Producer(e2,e1)	Mileson a vendu son humble demeure à un  <e1> promoteur </e1>  <e2> de logements </e2> .
+Cause-Effect(e2,e1)	Le même  <e1> effet </e1> est obtenu de  <e2> manière </e2> traditionnelle, avec une équipe de travailleurs comme les elfes Keebler .
+Other	Il a construit une formidable réputation d'écrire des  <e1> drames </e1> puissants pour la scène et de l'écran, en fonction des  <e2> évènements réels </e2> ou les problèmes sociaux vitaux .
+Other	Il produit des  <e1> dessins </e1> et des vidéos qui ont été présentées dans des  <e2> musées </e2> en Europe et en Amérique .
+Entity-Origin(e1,e2)	Par conséquent, aujourd'hui la Chine est le mélange complexe de différentes  <e1> cultures </e1> de différentes  <e2> époques </e2> .
+Cause-Effect(e1,e2)	Parmi les centaines de souches de la grippe aviaire  <e1> virus </e1> A, quatre seulement ont provoqué des  <e2> infections </e2> humaines: H5N1, H7N3, H7N7 et H9N2 .
+Message-Topic(e1,e2)	Beaucoup de ses  <e1> oeuvres </e1> litteraires et relatent des  <e2> histoires </e2> qui mentionnent ont eu lieu Ã  Lipa .
+Component-Whole(e1,e2)	Quand je marche seul, je compte les  <e1> marches </e1> de l' <e2> escalier </e2> , et je pense aussi à peu près à combien de pas sont laissés jusqu'Ã  ce que je tends la prochaine rue .
+Product-Producer(e1,e2)	Pour l'essentiel, les  <e1> ampoules </e1> qui apparaissent dans la bouche sont causées par le type de  <e2> virus de l'herpèss simplex </e2> 1, HSV-1 pour faire court .
+Component-Whole(e1,e2)	L'homme à la tête regardait le  <e1> guindant </e1> de la  <e2> voile </e2> et en sifflant doucement pour lui-même, ce qui ôtait le seul bruit sauf le bruissement de la mer .
+Component-Whole(e2,e1)	En outre, le  <e1> circuit </e1> comprend un additionneur numérique et un  <e2> convertisseur </e2> analogique-numérique avec une entrée analogique reliée à la sortie de l'amplificateur opérationnel et une sortie numérique reliée à une première entrée de l'additionneur numérique .
+Member-Collection(e2,e1)	Dolf Oehler, un leader dans le  <e1> camp </e1> de gauche des  <e2> champions </e2> de Heine depuis les années 1970, a réuni un groupe de critiques semblables pour ce symposium . .
+Content-Container(e2,e1)	La  <e1> cartouche </e1> a été marquée comme étant vide, même avec de l' <e2> encre </e2> dans les deux chambres .
+Member-Collection(e2,e1)	Un  <e1> groupe </e1> de  <e2> baleines </e2> de sperme s’est échoué sur la côte sud de l'Italie et au moins cinquante sont mortes dans ce que les experts ont décrit comme un rare, massif et déroutant  échouement pour une espèce de si grande taille .
+Product-Producer(e1,e2)	Ascaris ou  <e1> ascaris </e1> sont causées par un  <e2> parasite </e2> intestinal appelé Toxocara canis .
+Cause-Effect(e1,e2)	Le  <e1> sujet </e1> de « impliquer » est la source d'une  <e2> implication </e2> alors que le sujet de « déduire » est le destinataire d'une implication .
+Component-Whole(e2,e1)	Mon  <e1> chat </e1> a un problème avec sa  <e2> patte </e2> .
+Cause-Effect(e1,e2)	Le  <e1> traité </e1> établit une  <e2> règle </e2> de la double majorité pour les décisions du Conseil .
+Entity-Destination(e1,e2)	L'accident a répandu de l' <e1> huile </e1> dans l' <e2> océan </e2> .
+Entity-Origin(e1,e2)	Un raz de marée de  <e1> talent </e1> a émané de ce  <e2> village </e2> luxuriant .
+Content-Container(e1,e2)	Ces  <e1> pièces </e1> sont enfermées dans un  <e2> boitier en plastique </e2> dur clair avec un fond bleu qui est emballé dans une boite bleue .
+Other	En divisant l' <e1> espace </e1> dans un  <e2> tiroir </e2> de cuisine où vous conservez tous vos ustensiles de cuisine, vous avez regroupé les éléments par la taille ou la destination .
+Entity-Destination(e1,e2)	Ensuite, la  <e1> bouteille </e1> de PET cible a été placée à l'intérieur d'un  <e2> conteneur </e2> métallique, qui a été mis à terre .
+Message-Topic(e1,e2)	Les  <e1> programmes d'information </e1> a commencé sur la  <e2> violence </e2> du jeu et ont exprimé les inquiétudes sur la façon dont il aurait une incidence sur la personnalité des joueurs .
+Other	Le  <e1> récit </e1> comprend l' <e2> interaction </e2> de deux thèmes qui sont tissés ensemble comme il sillonne les deux sens entre la vie du désir de vieux Greg Kowalski dix-neuf années pour devenir un pompier et sa vie déchirante de plus en plus dans Saginaw Michigan oÃ¹ il a du supporter la violence verbale et physique remis par son père épouvantable .
+Entity-Destination(e1,e2)	Alors que Vinay s’effondra dans la douleur, les villageois lui versèrent de l' <e1> acide </e1> dans les  <e2> yeux </e2> .
+Other	La  <e1> salle </e1> était remplie d'énormes  <e2> toiles </e2> Jack-the-goutteurs .
+Member-Collection(e2,e1)	La  <e1> gorgée </e1> de  <e2> pies </e2> juste à gauche aprés un petit-déjeuner rapide des arachides et des miettes de biscuits .
+Other	La proposition a été débattue et approuvée avec enthousiasme en 2002 par une  <e1> convocation </e1> de  <e2> chercheurs </e2> internationaux qui comprenait de nombreux universitaires éminents, parmi les scientifiques de la stature de feu H . Curien, H . Varmus, P . et J . Crutzen Sachs .
+Cause-Effect(e1,e2)	En Afrique du Sud, qui a l'une des meilleures polices d’après les rapports publics sur le continent, la part des  <e1> meurtres </e1> qui se traduisent par une  <e2> condamnation </e2> est d'environ 18%, contre 56% aux Etats-Unis et 61% au Royaume-Uni .
+Entity-Origin(e1,e2)	Un groupe de  <e1> singes </e1> qui se sont échappés d'une  <e2> enceinte </e2> au Zoo d’Edimbourg sont en passe d’être pris .
+Other	Les gens affichent maintenant leurs  <e1> opinions </e1> sur ce  <e2> blog </e2> .
+Cause-Effect(e1,e2)	Les  <e1> vibrations </e1> de la circulation dans la rue à l’extérieur avaient provoqué le  <e2> mouvement </e2> de la lumière .
+Other	Les caniches de tous types étaient les chiens de cirque idéal lorsqu'ils ne sont pas roses et teints portant des  <e1> colliers </e1> de  <e2> diamant </e2> dans la Via Veneto ou Maxim de .
+Component-Whole(e1,e2)	Une  <e1> serrure </e1> numérique de la  <e2> porte </e2> numérique est une serrure électronique pour les applications résidentielles telles que les portes sur des appartements et des maisons unifamiliales .
+Entity-Origin(e1,e2)	Le  <e1> vin </e1> de  <e2> raisin rouge </e2> est une boisson de fruits sans alcool entre 10 et 14% alcoométrique .
+Product-Producer(e1,e2)	Le texte existe aussi dans une  <e1> transcription </e1> par un  <e2> scribe </e2> professionnel, qui a été préparé pour Sir Dudley Carleton .
+Instrument-Agency(e2,e1)	Une  <e1> sorcière </e1> est en mesure de changer les événements en utilisant la  <e2> magie </e2> .
+Component-Whole(e1,e2)	Le  <e1> comité </e1> fait partie intégrante de notre  <e2> organisation </e2> .
+Entity-Destination(e1,e2)	J'ai inséré une  <e1> horloge </e1> dans les  <e2> présentations </e2> .
+Product-Producer(e2,e1)	La  <e1> famille </e1> construit quelques  <e2> caractéristiques </e2> de neige de soutien TCU Horned Frog ainsi que juste une image trés agréable d'un ancien poste lumière faÃ§onné .
+Other	Une  <e1> méthode </e1> simple pour nettoyer les petits sabots est d'utiliser une  <e2> combinaison </e2> éprouvée et véritable de bicarbonate de soude et de vinaigre .
+Other	La  <e1> statue </e1> complète, surmontée d'une  <e2> tête </e2> imposante, était à l'origine de près de cinq mètres de haut .
+Message-Topic(e1,e2)	Dans l' <e1> article </e1> , les auteurs explorent l' <e2> utilisation </e2> de la technologie dans les petites officines de pharmacies .
+Product-Producer(e1,e2)	Les  <e1> commentaires </e1> suivants sont fournis par les  <e2> lecteurs </e2> et sont la seule responsiblité des auteurs .
+Other	La loi organique de 1868 a fait plusieurs références spécifiques aux pouvoirs et fonctions du  <e1> président </e1> de l' <e2> université </e2> après avoir déclaré qu'il soit élu au bureau du Conseil des régents .
+Entity-Origin(e1,e2)	Ce  <e1> vin </e1> grand cru est fabriqué à partir de  <e2> raisins </e2> Pinot Noir et est moyenne Ã corsés dans le style .
+Cause-Effect(e2,e1)	La  <e1> diapositive </e1> qui a été déclenchée par une  <e2> équipe </e2> de contrôle d'avalanche, a endommagé une maison et a bloqué la route pour la plupart de la journée .
+Entity-Origin(e1,e2)	Etant donné que l' <e1> inspecteur </e1> avait quitté la  <e2> cour </e2> , tôt ce matin, il avait disparu .
+Other	La  <e1> réglementation </e1> internationale des eaux usées des navires est entrée en  <e2> vigueur </e2> .
+Product-Producer(e1,e2)	L’Ambassadeur SUN Shuzhong a répondu aux  <e1> questions </e1> de la  <e2> presse </e2> locale aprés sa visite au Centre Memorial à Kigali le 28 décembre 2007 .
+Other	Ses  <e1> enfants </e1> sont partis en  <e2> exil </e2> .
+Instrument-Agency(e2,e1)	Un médiateur bédouin à nouveau son retour quand son  <e1> père </e1> a promis de ne pas lui faire du mal, puis son père l'a tué avec une  <e2> barre </e2> de fer .
+Entity-Destination(e1,e2)	Il a mis un  <e1> rebond </e1> dans un  <e2> filet </e2> ouvert pour son huitième but .
+Product-Producer(e2,e1)	L' <e1> étudiant </e1> de deuxième cycle UBC a passé son temps libre à la création d'une  <e2> application </e2> appelée ColorSplash qui permet aux gens de jouer avec la couleur dans leurs photos numériques .
+Component-Whole(e1,e2)	La  <e1> barre </e1> de sécurité des  <e2> siéges </e2> doit être rabattue par le passager et elle doit être maintenue fermée pendant le voyage .
+Component-Whole(e1,e2)	En 1715 la jambe cabriole était en cours d'utilisation générale, et le  <e1> dos </e1> de la  <e2> chaise </e2> avait commencé à devenir une forme carrée: plus il était la caractéristique caractéristique haute et étroite du siècle précédent .
+Cause-Effect(e1,e2)	La  <e1> fatigue </e1> musculaire est la première cause de la  <e2> douleur </e2> musculaire du bras .
+Component-Whole(e1,e2)	Le manteau Lawhammer: Un terme d'argot pourdésigner le manteau du soir pour homme, parce que les queues ressemblent fractionnées à la  <e1> griffe </e1> d'un  <e2> marteau </e2> .
+Message-Topic(e1,e2)	Le  <e1> magazine </e1> a été fondé afin de garder les athlètes comme soldats informés de leur  <e2> sport </e2> à la maison .
+Instrument-Agency(e2,e1)	De nombreux  <e1> cartomanciens </e1> professionnels utilisent une plate-forme règuliére de  <e2> cartes </e2> à jouer pour la divination .
+Message-Topic(e1,e2)	De nombreux  <e1> films </e1> ont dépeint une  <e2> maladie mentale </e2> ou utilisé comme toile de fond pour d'autres thèmes .
+Product-Producer(e2,e1)	La  <e1> société </e1> de logiciels a abordé le problème avec la  <e2> publication </e2> d'un correctif samedi .
+Entity-Origin(e1,e2)	Boire le reste de son  <e1> nectar </e1> de  <e2> papaye </e2> , et essuyant sa bouche, il se retourna et s’enfuit en jetant un au revoir et vague sur son épaule fringant follement en profondeur la foule .
+Message-Topic(e1,e2)	Ce  <e1> volume </e1> analyse les  <e2> concepts </e2> centraux du débat politique contemporain .
+Entity-Origin(e1,e2)	Le  <e1> défendeur </e1> a été libéré de la  <e2> garde </e2> le 2 mars 2001 .
+Other	De plus, l' <e1> usine </e1> construit quatre cylindres à «Ecotec» qui sont utilisés dans des  <e2> véhicules </e2> comme la Chevrolet Malibu et Cobalt .
+Component-Whole(e1,e2)	Nous avons utilisé du  <e1> fromage </e1> frit comme un élément dans un  <e2> plat </e2> .
+Component-Whole(e1,e2)	Le  <e1> château </e1> était à l'intérieur d'un  <e2> musée </e2> .
+Other	De plus en plus de  <e1> clubs </e1> anglais de Premier League tombent entre des  <e2> mains </e2> étrangères .
+Entity-Destination(e1,e2)	L' <e1> homme </e1> a été transporté dans une  <e2> voiture </e2> de police d'attente de Coleraine Times .
+Message-Topic(e1,e2)	L'objectif de cette  <e1> section </e1> est l' <e2> interprétation </e2> des résultats et leur relation avec les connaissances existantes .
+Component-Whole(e1,e2)	Bunn a rappelé 35 .600 brasseurs pod unique tasse parce que le  <e1> tiroir </e1> de la  <e2> cafetière </e2> s’ouvre de façon inattendue au cours d'un cycle d'infusion, ce qui pose un risque de brûlure pour les consommateurs .
+Entity-Destination(e1,e2)	Un  <e1> tube </e1> de sonde est introduit dans un  <e2> récipient </e2> de réaction pour mesurer l'état de fonctionnement d'un milieu à l'intérieur du récipient .
+Message-Topic(e1,e2)	David Mamet a répondu aux questions du public et a partagé son point de  <e1> vue </e1> sur des sujets tels que la  <e2> télévision </e2> , la démocratie de la culture et l'accent anglais .
+Message-Topic(e1,e2)	En outre, le  <e1> chapitre </e1> souligne l' <e2> importance </e2> de l'orientation des nouveaux employés et énumère quelques-unes des choses importantes à traiter pendant ce processus .
+Component-Whole(e2,e1)	La  <e1> station </e1> de surveillance reçoit le signal à travers un  <e2> dispositif </e2> de communication et le signal combiné est traité pour récupérer des données GPS .
+Entity-Origin(e1,e2)	Dans cette approche, la correction et de la police ont cherché conjointement pour localiser et arrêter les  <e1> délinquants </e1> qui avaient pris la fuite des  <e2> agents </e2> de libération conditionnelle et de probation .
+Message-Topic(e1,e2)	Le thème principal du  <e1> livre </e1> est la  <e2> beauté </e2> d'un rêve .
+Cause-Effect(e2,e1)	Il a renversé plus de 53000 litres de pétrole brut dans les marais qui entourent l'un des plus grands  <e1> déversements </e1> causés par l' <e2> ouragan </e2> .
+Other	Dix-huit  <e1> études </e1> ont porté sur les personnes  <e2> âgées </e2> vivant à la maison .
+Cause-Effect(e2,e1)	Les  <e1> maladies </e1> sont causées par des  <e2> mutations du gène </e2> sur le chromosome X .
+Cause-Effect(e1,e2)	Les prétextes offerts étaient risibles, et la  <e1> réponse </e1> causée, A peine une  <e2> ondulation </e2> sur le flot de commentaires sur les nobles efforts pour répandre la démocratie de Washington .
+Component-Whole(e1,e2)	La taille d'une  <e1> couronne </e1> d' <e2> arbres </e2> est fortement corrélée à la croissance de l'arbre .
+Member-Collection(e2,e1)	L'état Capital est un égout répugnant et Bruno est juste un dans le  <e1> mal </e1> des  <e2> rats </e2> immondes qui prolifèrent là .
+Other	Sci-Fi Channel est le  <e1> réseau cablé </e1> dédié exclusivement à offrir des  <e2> émissions de télévision de science-fiction </e2> classique et de films, ainsi que la programmation audacieuse originale .
+Content-Container(e1,e2)	Le  <e1> chat </e1> momifié a été retrouvé dans un  <e2> piège </e2> en temps réel avec un plat vide .
+Other	Les  <e1> histoires </e1> sont racontées par la  <e2> danse </e2> .
+Product-Producer(e2,e1)	Les principales gammes de produits de  <e1> fonderie </e1> comprennent des  <e2> cadres </e2> de trou d'homme et couvertures utilitaires, pièces moulées de l'aéroport, les produits de drainage, trench, Grates composants de bouche d'incendie et de vannes et pièces moulées industrielles .
+Other	L' <e1> air </e1> était rempli de l' <e2> odeur </e2> de la combustion de matière plastique .
+Cause-Effect(e2,e1)	Lisa a une grande  <e1> joie </e1> de  <e2> rire </e2> , faire du bénévolat à l'école, prendre des photos, le chat, les Twins et Vikings, en jouant au softball et au volley-ball, et le temps au lac Vermilion .
+Product-Producer(e1,e2)	Ces  <e1> lignes </e1> de la plume d'un jeune  <e2> auteur </e2> lu largement par la jeunesse ne font que confirmer le changement profond dans l'ambiance du prolétariat Freuch .
+Cause-Effect(e1,e2)	Le  <e1> récepteur </e1> a été libéré en sortie le même  <e2> ton </e2> à mon Deva 5 .
+Member-Collection(e2,e1)	Au moins 12 personnes ont été tuées hier, quand une  <e1> escouade </e1> de  <e2> militants </e2> lourdement armés ont pris d'assaut l'école de formation de la police à la périphérie de Lahore, la pulvérisation avec des coups de feu et des grenades .
+Component-Whole(e2,e1)	Le  <e1> télescope </e1> comprend des  <e2> lentilles </e2> et des tubes: les deux sont extrémement importants pour la performance du télescope .
+Entity-Destination(e1,e2)	Nous avons versé la  <e1> pâte </e1> dans la  <e2> cuve de Tupperware </e2> rempli d'eau .
+Instrument-Agency(e2,e1)	Les  <e1> menuisiers </e1> construisent beaucoup d’objets en  <e2> bois </e2> et d'autres matériaux, tels que les bâtiments et les bateaux .
+Other	Des  <e1> échantillons </e1> de lait ont été obtenus à partir d'une  <e2> traite </e2> de chaque vache .
+Other	Il y a une comparaison entre l'intimité et la responsabilité offerte par un roman et celui offert par un blog dans lequel le  <e1> blogueur </e1> est participant à un en cours  <e2> conversation </e2> ou la ligne entre le lecteur et l'affiche d'origine est floue au-delà de la reconnaissance, qui remplace l'observation collective ancienne tour d'ivoire -fashioned édition avec une sorte d'examen par les pairs universel .
+Message-Topic(e1,e2)	Son  <e1> discours </e1> a critiqué l' <e2> idée </e2> de l'éducation religieuse comme un voyage autour des différentes religions .
+Entity-Origin(e1,e2)	a été considéré comme le pain préparé avec de la  <e1> farine </e1> de  <e2> riz </e2> bon de 25% des évaluateurs, régulière de 33%, trés mauvais par 17% et trés bon de 8% seulement .
+Entity-Origin(e2,e1)	Le  <e1> corps </e1> libère son  <e2> passager </e2> extra-terrestre, qui procède à infecter la population étudiante à un rythme effréné .
+Other	L’ <e1> Asteroide </e1> a menacé la Terre d’une  <e2> catastrophe </e2> .
+Component-Whole(e2,e1)	Dans ses premières années, la  <e1> ferme </e1> avait quarante  <e2> acres </e2> , et était une ferme productive de subsistance avec les moutons comme la principale source de revenus .
+Content-Container(e1,e2)	Le  <e1> laptop </e1> est dans un  <e2> sac en plastique </e2> de protection à base de LDPE au nombre de quatre, qui peut être facilement recyclé .
+Instrument-Agency(e2,e1)	Gary Wheelan, un coureur de jupons, adultère trentenaire avocat à Dallas, obtient finalement ce qu'il mérite quand ses agressions verbales provoquent un  <e1> opérateur </e1>  <e2> téléphonique </e2> .
+Message-Topic(e1,e2)	Il tisse des  <e1> histoires </e1> complexes concernant les romantiques  <e2> préoccupations </e2> de bonheur, d'amour et de tolérance .
+Component-Whole(e2,e1)	Contrairement à la prosencéphale (télencéphale ou encéphale) des mammifères, des oiseaux et des poissons, des  <e1> amphibiens </e1>  <e2> prosencéphale </e2> est similaire dans les trois ordres d'amphibiens: les anurons (grenouilles et crapauds), les urodiles (salamandres et tritons) et les cécilies .
+Other	Après de belles rénovations à divers endroits, la  <e1> société </e1> a rénové une église dans une  <e2> maison </e2> .
+Content-Container(e1,e2)	La  <e1> caméra </e1> cachée, trouvée par un gardien de sécurité, était dans une  <e2> boîte de dépliant </e2> taille carte de visite placée à un guichet automatique sans pilote dans le quartier Minato de Tokyo au début de Septembre .
+Instrument-Agency(e2,e1)	Avec notre aide, les  <e1> organismes </e1> de services humains sans but lucratif de gérer efficacement leurs  <e2> ressources </e2> et à réussir dans l'Ere moderne des services humains .
+Component-Whole(e1,e2)	La  <e1> vessie natatoire </e1> des  <e2> animaux </e2> aquatiques leur donne la possibilité de manioulate gravité et doit étre davantage étudiée .
+Member-Collection(e2,e1)	Le matin du 16, nous nous mettions à nouveau en marche, accompagnés d'un  <e1> coffle </e1> de quatorze  <e2> ânes </e2> , chargés de sel, à destination de Sansanding .
+Entity-Origin(e1,e2)	La  <e1> coloration </e1> est dérivée du  <e2> manteau des bras </e2> du Grand-Duc .
+Member-Collection(e2,e1)	Le constitutionnaliste et républicain étaient au bras; et le Quaker et presbytérien ont oublié leurs antipathies religieuses dans cette  <e1> coalition </e1> d' <e2> intérêts </e2> .
+Instrument-Agency(e1,e2)	Un  <e1> outil </e1> de pince d' <e2> électricien </e2> polyvalent est crucial pour couper tout fil de calibre avec lequel l'électricien travaille .
+Entity-Origin(e1,e2)	Le réglage du réseau GPS des  <e1> données </e1> des deux  <e2> époques </e2> est réalisée en utilisant le logiciel de ski TM avec réglage du réseau sous contraintes .
+Other	Nous avons construit cette  <e1> ville </e1> sur le  <e2> rock and roll </e2> .
+Entity-Origin(e1,e2)	Les  <e1> parents </e1> sont allés loin de la  <e2> station </e2> de police, car ils étaient pauvres .
+Member-Collection(e1,e2)	William H . Parker était le plus ancien  <e1> chef </e1> de la  <e2> police </e2> dans le département de police de Los Angeles .
+Instrument-Agency(e2,e1)	Les  <e1> hopitaux </e1> utilisent aujourd'hui à cet effet un  <e2> appareil </e2> à «blow by» .
+Content-Container(e1,e2)	Les  <e1> bottes </e1> étaient dans une  <e2> boîte </e2> de choses que les garçons avaient ramassées au bureau de poste juste avant que le rideau ne soit tombé .
+Message-Topic(e2,e1)	Les  <e1> attractions </e1> en bord de route sont fréquemment annoncées avec des  <e2> panneaux d'affichage </e2> pour attirer les touristes .
+Other	Quoi qu'il en soit, le  <e1> gars </e1> a convaincu certains locaux une  <e2> voiture </e2> véhiculés de nous conduire quelque part pour nous procurer de la bière .
+Product-Producer(e2,e1)	Le placenta fonctionne pleinement à l'heure actuelle et le  <e1> fetus </e1> fait l' <e2> insuline </e2> et urine .
+Product-Producer(e1,e2)	La  <e1> conception </e1> est de ma  <e2> femme </e2> , Bianca .
+Member-Collection(e2,e1)	Ses débuts littéraireé datent de 1919, quand il a rejoint le petit  <e1> cercle </e1> de Esenin, des  <e2> hooligans </e2> littéraires, les Imaginists .
+Member-Collection(e2,e1)	Mon lapin vient d'avoir une nouvelle  <e1> portée </e1> de  <e2> lapins </e2> .
+Message-Topic(e1,e2)	Plusieurs  <e1> textes </e1> rapportent des  <e2> anecdotes </e2> mythologiques associées à sa naissance et ses exploits et expliquent son iconographie distincte .
+Message-Topic(e1,e2)	Ces nouveaux  <e1> documents </e1> soulignent un certain nombre de  <e2> stratégies </e2> troublantes utilisées par Enron .
+Product-Producer(e2,e1)	Pour tester le poinçon, le  <e1> graveur de poinçons </e1> fait une  <e2> empreinte </e2> sur un morceau de papier aprés avoir enduit le poinçon de suie d'une flamme nue .
+Other	Ils connectés au  <e1> connecteur </e1> du  <e2> boitier de la batterie </e2> au connecteur du chargeur .
+Component-Whole(e1,e2)	Notre  <e1> visite </e1> fait partie de la  <e2> stratégie </e2> générale d'engager la communauté mondiale au profit de notre économie, d'améliorer notre sécurité nationale et bien sür, de promouvoir le bien-être de nos travailleurs philippins expatries- la plus grande communaute dont est ici dans le Royaume d'Arabie Saoudite .
+Cause-Effect(e1,e2)	La presentation utilise l'animation pour montrer comment les germes et  <e1> microbes </e1> causent la  <e2> maladie </e2> , et donne un aperçu des mesures de prévention simples .
+Message-Topic(e2,e1)	Les  <e1> implications </e1> possibles ont été indiquées dans la première  <e2> publication </e2> .
+Message-Topic(e1,e2)	Le  <e1> document </e1> est sur les  <e2> drogues </e2> illicites, qui, selon elle, sont illégales parce qu'elles sont nuisibles .
+Entity-Origin(e1,e2)	Un  <e1> bazooka </e1> va loin du  <e2> jeu </e2> orginal Mafia .
+Entity-Origin(e1,e2)	Le  <e1> modèle </e1> est dérivé d'un  <e2> exemple </e2> utilisé par Bertrand Meyer dans son livre, Object-Oriented Software Construction .
+Product-Producer(e2,e1)	Les  <e1> chercheurs </e1> ont synthétisé les  <e2> ingrédients </e2> de base .
+Entity-Destination(e1,e2)	La  <e1> bière </e1> versée lentement dans une  <e2> tasse </e2> , d'abord toute la mousse, puis en tournant translucide avant de clarifier tout d'un coup dans une brillante mousse garnie d'ambre .
+Content-Container(e1,e2)	Un aspirateur central est un système de  <e1> moteur </e1> d'aspiration et de filtration intégré dans un  <e2> boitier </e2> .
+Member-Collection(e2,e1)	Formation du  <e1> corps </e1> des  <e2> cadets </e2> médicaux a été approuvée par le Congrès le 3 Aout, 1861 .
+Component-Whole(e2,e1)	Il a été utilisé principalement sur les supports de bague Scarff, mais a également été monté sur  <e1> l'aile </e1> supérieure des  <e2> avions </e2> de comat, controlé par un cable Bowden .
+Entity-Origin(e1,e2)	Le quartier général de l'opération étaient Ã  Tiergartenstrasse 4, Berlin et le  <e1> nom </e1> de code du programme a été dérivé de cette  <e2> adresse </e2> - T-4 .
+Instrument-Agency(e2,e1)	Les  <e1> analystes </e1> évaluent la distribution et les changements dans la distribution au fil du temps en utilisant la  <e2> fréquence </e2> .
+Entity-Destination(e1,e2)	L' <e1> homme </e1> voyageait dans les  <e2> pays </e2> voisins sans autorisation .
+Member-Collection(e1,e2)	Aujourd'hui, il a été prouvé que Camp est le troisième meilleur  <e1> gardien </e1> de l' <e2> équipe </e2> .
+Other	Les  <e1> hauts-roues </e1> descendaient d'un type précoce de  <e2> push-vélo </e2> , sans pédales .
+Other	Une  <e1> ligne </e1> est une des conditions essentielles de la  <e2> géométrie </e2> .
+Cause-Effect(e2,e1)	En conséquence, la  <e1> pollution </e1> des  <e2> voitures </e2> est à l'origine de graves problèmes de santé pour les Américains .
+Product-Producer(e1,e2)	Lorsque les téléspectateurs ignorent les  <e1> messages </e1> négatifs, l' <e2> auteur </e2> incriminé laisse souvent le site .
+Entity-Destination(e1,e2)	 <e1> Noyau fondu </e1> ont été déposés dans la  <e2> riviçre </e2> pour enquêter sur les conditions de l'apparition d'une vapeur .
+Entity-Origin(e1,e2)	L'origine principale des  <e1> lithiques </e1> métamorphiques est des chaînes de  <e2> montagnes </e2> situées dans le nord-ouest .
+Instrument-Agency(e2,e1)	Le noyau de l' <e1> analyseur </e1> identifie d'abord les chemins infaisables en utilisant la  <e2> méthode </e2> de propagation de contraintes .
+Message-Topic(e1,e2)	Il a combiné l'histoire intelligente avec la prose émouvante, créant un  <e1> récit </e1> instructif et inspirant racontant l' <e2> histoire </e2> d'un grand peuple .
+Entity-Destination(e1,e2)	Ces  <e1> attributs </e1> sont transmis à leurs  <e2> enfants </e2> .
+Content-Container(e1,e2)	L'abeille transporte le  <e1> pollen </e1> dans un  <e2> panier </e2> de pollen à la ruche .
+Other	Une  <e1> infirmière </e1> saisit le patient par le  <e2> bras </e2> et l’escorte vers son lit .
+Product-Producer(e2,e1)	Il suffit de prendre quelque chose parce qu'il est là est injuste pour la  <e1> personne </e1> qui a créé le  <e2> contenu </e2> , et dont les droits viennent d'abord .
+Other	Le  <e1> champignon </e1> a été trouvé dans une  <e2> masse </e2> de brindilles et de feuilles humides .
+Member-Collection(e2,e1)	Une victoire et nous avons soudainement obtenu une  <e1> escouade </e1> de  <e2> batteurs </e2> du monde .
+Entity-Destination(e1,e2)	Pendant ce temps, nous avons placé les  <e1> pommes </e1> de terre dans un  <e2> panier </e2> de cuisson à la vapeur qui convenait dans une grande casserole .
+Product-Producer(e2,e1)	Nous ne savions pas à quelle hauteur on pouvait aller, a déclaré Bill Baker de Skidmore, Owings & Merrill,  <e1> ingénieur </e1> du  <e2> bâtiment </e2> .
+Message-Topic(e2,e1)	Cette  <e1> thése </e1> a été affirmée dans un  <e2> livre </e2> , écrit par le chef de la police de l’OCRB .
+Instrument-Agency(e2,e1)	Une  <e1> équipe </e1> chargée derrière le comptoir assemble les sandwichs avec deux morceaux de  <e2> poitrine </e2> de poulet frit, qui sont très bien battus .
+Cause-Effect(e1,e2)	La  <e1> pluie </e1> causa l' <e2> annulation </e2> de l'événement en 1877, donc l'application de la nouvelle loi a du attendre jusqu'en 1878 .
+Other	La formation professionnelle concerne inévitablement les orientations futures de la profession et de la Technologie et la Société Magazine a publié un certain nombre d'articles sur les implications pour la  <e1> société </e1> de diverses  <e2> tendances </e2> et les enjeux de l'ingénierie, de l'informatique et de l'éducation .
+Message-Topic(e1,e2)	Le second format est celui des  <e1> tables rondes </e1> organisées autour des  <e2> mots clés </e2> , qui offrent aux étudiants la possibilité de participer au dialogue .
+Component-Whole(e2,e1)	Le  <e1> site </e1> publie des  <e2> articles </e2> analytiques ainsi que des statistiques avancées et des projections pour les individus et les équipes .
+Message-Topic(e2,e1)	L'ancienne  <e1> théorie </e1> de l'astronaute a été fréquemment abordée dans la  <e2> science-fiction </e2> et la fiction d'horreur .
+Other	Le  <e1> regroupement </e1> a donné lieu à des  <e2> grappes </e2> 22445, qui ont été composés de deux à plusieurs milliers de lectures .
+Entity-Origin(e1,e2)	Je me suis mis sur ce projet en lisant les recettes de Jack Keller pour le  <e1> vin </e1> de  <e2> cerise </e2> .
+Entity-Destination(e1,e2)	Cette  <e1> chanson </e1> a été inscrite au  <e2> concours </e2> officieusement .
+Entity-Destination(e1,e2)	Il a investi  <e1> dollars </e1> dans des  <e2> fiducies </e2> de placement immobilier .
+Product-Producer(e1,e2)	Ces dernières années, la plupart ont livré pré  <e1> floppies </e1> préformatées de l' <e2> usine </e2> comme des disquettes DOS FAT12 .
+Component-Whole(e1,e2)	Sur le  <e1> mur </e1> arrière du  <e2> magasin </e2> , les boissons dans les pop fraiches grace à l'éclairage LED, ce qui permet également réduit les coûts d'énergie du magasin .
+Content-Container(e1,e2)	Le  <e1> corps </e1> était dans un  <e2> bac </e2> , à côté d'une benne à ordures, dans une zone clôturée de stationnement du complexe .
+Other	En 1952, quand Fidel a couru pour le  <e1> membre du Congrés </e1> sur le  <e2> billet du parti </e2> Ortodoxo, il était le père qui a contribué à financer sa campagne .
+Cause-Effect(e2,e1)	Sa marque de fabrique halètement vapeur moteur se révèle un  <e1> sonore </e1> produit par un venin craché de  <e2> vipère </e2> Ã  sa proie avant de l'avaler tout son .
+Entity-Destination(e1,e2)	Soixante-deux  <e1> conteneurs </e1> sont tombés dans le  <e2> barrage </e2> .
+Component-Whole(e1,e2)	Les tissus du  <e1> lobe </e1> dorsal du  <e2> pancréas </e2> de 8 étourneaux (Sturnus vulgaris) ont été examinés au microscope électronique en utilisant des échantillons préparés de manière classique .
+Component-Whole(e2,e1)	Le « écoute »  <e1> éléphant </e1> attrape les vibrations avec ses  <e2> orteils </e2> , derrière lequel se trouvent des tampons de graisse acoustique sensibles .
+Content-Container(e2,e1)	Vous avez une  <e1> bouteille </e1> avec suffisamment de  <e2> billes </e2> pour faire en une ligne à travers le fond comme il roule sur la piste .
+Member-Collection(e2,e1)	Un personnel initial de 5 donne un gain net de 1 employé, alors qu'un  <e1> personnel </e1> initial de 50  <e2> employés </e2> est réduit de 10 .
+Member-Collection(e2,e1)	L'Ordre des Frères Mineurs Capucins (OFM Cap) est un  <e1> ordre </e1> de  <e2> frères </e2> dans l'Eglise catholique romaine, le chef et seulement rejeton permanent des Franciscains .
+Component-Whole(e1,e2)	Les Musiciens ont utilisé leurs vrais  <e1> ongles </e1> de la  <e2> main </e2> droite pour pincer les cordes .
+Entity-Origin(e1,e2)	L' <e1> huile </e1> a été extraite des  <e2> graines </e2> cultivar Crambe abyssinica Belenzian cultivée en Italie en 1992, en utilisant un nouveau procédé de pressage mécanique à froid .
+Content-Container(e1,e2)	Ce taux d'humidité mesure des  <e1> échantillons </e1> en sacs introduits dans un  <e2> bécher </e2> de sol à différentes profondeurs .
+Instrument-Agency(e2,e1)	Silencieux en noir et flashbacks blanc montrent son  <e1> frère </e1> le frapper avec des  <e2> gants </e2> pendant que son père regarde .
+Entity-Origin(e1,e2)	Vous avez vu que nos boites sont maintenant en 12 onces de soda avec du  <e1> sucre </e1> de  <e2> canne </e2> pur .
+Content-Container(e2,e1)	Le magicien montre une  <e1> bouteille </e1> de  <e2> soda </e2> .
+Content-Container(e1,e2)	Pire encore, l' <e1> argent </e1> de la famille était dans un  <e2> pot </e2> dans la maison et a été également perdu .
+Other	Après des mois de siège, avec quelques-uns des plus féroces assauts humains par le nombre de fois leur propre, et quand la fumée s’était dissipée, la  <e1> bannière </e1> des  <e2> chevaliers </e2> était encore debout sur les remparts .
+Cause-Effect(e2,e1)	L' <e1> accident </e1> de train mortel a été causé par une  <e2> attaque </e2> terroriste .
+Message-Topic(e1,e2)	Il a dirigé ses  <e1> critiques </e1> sur la  <e2> couverture médiatique </e2> de l'Eglise catholique .
+Content-Container(e1,e2)	Le  <e1> vin </e1> Label Jaune de la Veuve Clicquot dans un  <e2> jéroboam </e2> est vieilli pendant 15 ans .
+Entity-Origin(e1,e2)	Les  <e1> travaux </e1> de construction de l'installation ont commencé à la  <e2> fin </e2> de 1980 .
+Message-Topic(e1,e2)	Le  <e1> débat </e1> sur les  <e2> rôles </e2> se développent par rapport aux anciens Grecs et Romains, les Mésopotamiens .
+Message-Topic(e2,e1)	Les  <e1> conditions </e1> dans la prison de Nottingham ont été critiquées dans un nouveau  <e2> rapport </e2> .
+Other	Les  <e1> animaux </e1> de cette  <e2> ferme </e2> sont contents, heureux du bétail .
+Other	Elle est le chanteur principal et a un  <e1> sonore </e1> qui capte l'auditeur avec une  <e2> combinaison </e2> d'un accent britannique / scandinave qui n'est pas perdu dans le mélange .
+Content-Container(e1,e2)	La  <e1> pièce </e1> a été enfermée dans un  <e2> boitier </e2> en plastique de protection .
+Member-Collection(e2,e1)	Un  <e1> défilé </e1> de  <e2> manchots </e2> pygmées est maintenant un pilier économique critique, comme des générations de migrants développent des produits touristiques innovants et créent de nouveaux marchés d'exportation .
+Product-Producer(e1,e2)	Sur les raisons desSpéculations derrière la production de capacité inférieure d' <e1> éthanol </e1> par les  <e2> usines </e2> de sucre dans l'état cernées au Conseil législatif le mardi .
+Other	Le  <e1> forage </e1> gazier menace le public avec des produits  <e2> chimiques </e2> non divulgués .
+Entity-Origin(e1,e2)	L' <e1> information </e1> provient d'un  <e2> communiqué de presse </e2> du Département de police de Utica .
+Component-Whole(e2,e1)	La  <e1> chaîne </e1> des  <e2> îles </e2> Hawai prouve que la plaque Pacifique se déplace vers le nord-ouest .
+Message-Topic(e1,e2)	Ces  <e1> enquêtes </e1> ont fourni des  <e2> preuves </e2> statistiques pour une véritable préoccupation morale pour les pauvres .
+Cause-Effect(e2,e1)	Toutes les terrasses sur les rampes doivent être remplacées (pour la deuxième fois) en raison des  <e1> dommages </e1> causés par l'utilisation  <e2> abusive </e2> de l'installation .
+Component-Whole(e1,e2)	Un « haricot vert » qui est en fait un  <e1> fruit </e1> avec des  <e2> graines </e2> à l'intérieur .
+Cause-Effect(e2,e1)	Ces types de scripts aident les personnes ayant une déficience visuelle pour obtenir plus de  <e1> plaisir </e1> de la  <e2> programmation </e2> parce que l'action à l'écran est décrité pour eux .
+Other	La  <e1> technique </e1> utilisée pour la  <e2> combinaison </e2> d'informations provenant des différents sous-détecteurs a été présentée lors de la réunion de suivi-PID-physique .
+Component-Whole(e1,e2)	Les  <e1> os </e1> cassés (aussi appelés fractures) dans le  <e2> pied </e2> sont très fréquents .
+Cause-Effect(e1,e2)	Les  <e1> migrations </e1> saisonnières et nocturnes entrainent la  <e2> privation </e2> de sommeil dans Grive de Swainson diurnal, Catharus ustulatus .
+Cause-Effect(e1,e2)	L'avion a été radié dans l' <e1> accident </e1> en raison de l' <e2> impact </e2> grave causé par l'avion KLM, et le feu résultant .
+Product-Producer(e1,e2)	Du bei mir bist (en: "Sois avec moi") (508 BWV) est un  <e1> aria </e1> par un  <e2> compositeur </e2> allemand du nom de Gottfried Heinrich Stoelzel .
+Entity-Destination(e1,e2)	Nous DISSOUS le  <e1> contenu </e1> d'un sachet dans une  <e2> carafe </e2> d'eau et a couru le cycle d'infusion .
+Component-Whole(e1,e2)	Dans la  <e1> tige </e1> de cet  <e2> arbre </e2> est une jolie petite maison .
+Other	La  <e1> machine </e1> à remonter le  <e2> temps </e2> elle-même est une boîte grise simple, avec un "bourdonnement" électronique distinctif créé en superposant les sons d'un broyeur mécanique et d'un moteur de voiture, plutôt qu'un effet numérique traité .
+Other	Mais peu prévu qu'une  <e1> production </e1> à petite échelle par un jeune auteur  <e2> dramatique </e2> pourrait susciter la confrontation violente que ce week-end a donné lieu à des milliers de livres de dégats et les affrontements avec la police anti-émeute Ã  Birmingham Repertory Theatre .
+Product-Producer(e1,e2)	Andronic a écrit un ouvrage sur Aristote, le cinquième livre qui contenait une liste complète des  <e1> écrits </e1> du  <e2> philosophe </e2> .
+Content-Container(e1,e2)	Un  <e1> tableau </e1> comme celui-ci est placé dans la  <e2> chambre </e2> du roi et se réfère à des cérémonies judiciaires .
+Component-Whole(e1,e2)	Le protocole suivant est utilisé pour les patients qui ne se sentent les  <e1> chaînes </e1> du  <e2> dispositif </e2> à l'os cervical externe .
+Entity-Origin(e1,e2)	L'article fait un excellent travail en liant les trois  <e1> cas </e1> de procédure de dernier  <e2> terme </e2> des problèmes de contentieux complexes plus importants .
+Entity-Destination(e1,e2)	Nous avons tous travaillé ensemble pour mélanger les ingrédients, on verse le  <e1> mélange </e1> dans les deux  <e2> moules </e2> à gateaux et les mettre dans le four .
+Component-Whole(e1,e2)	Une augmentation de l'expression de la cycline D1 a été observé dans nos expériences sur les  <e1> poumons </e1> des  <e2> furets </e2> auxquels on a ajouté du bêta-carotène à forte dose .
+Entity-Origin(e1,e2)	Dans ce panneau  <e1> gerbilles </e1> échappe à la  <e2> menace </e2> .
+Cause-Effect(e1,e2)	La  <e1> frappe aérienne </e1> a également abouti à plusieurs  <e2> explosions </e2> secondaires, ce qui conduit les Marines sur le site à soupsonner que la maison contenait peut-être des bombes artisanales .
+Component-Whole(e1,e2)	La  <e1> quille </e1> agit comme l'épine dorsale du  <e2> navire </e2> .
+Other	Les  <e1> barrages </e1> font usage de l' <e2> énergie </e2> potentielle dans la différence de hauteur entre les marées hautes et basses .
+Other	Conformément aux dispositions de l'accord intérimaire les deux parties ont convenu de ce  <e1> protocole </e1> pour l’ <e2> implémentation </e2> du redéploiement à Hébron .
+Cause-Effect(e2,e1)	Le troisième  <e1> conflit </e1> a été causé par les  <e2> eaux usées </e2> très polluées du parc industriel autour de la ville de Kemalpasha .
+Product-Producer(e1,e2)	Un  <e1> rapport </e1> de la  <e2> Commission </e2> prévoit que les revenus de la poste et le secteur des télécommunications de la nation va croître de 22,4% en glissement annuel Ã60000000000000 dong (3 .75b $) cette année .
+Component-Whole(e2,e1)	La  <e1> voiture </e1> concurrente a obtenu le rendement énergétique supérieur à l'aide d'un petit  <e2> moteur </e2> à combustion interne .
+Instrument-Agency(e1,e2)	Un homme de Port St . Lucie qui a volé les  <e1> clés </e1> d'un  <e2> chauffeur </e2> de livraison pour revenir à lui sur une rancune a été arrêté sur des accusations de cambriolage .
+Message-Topic(e1,e2)	Le  <e1> livre </e1> prend en compte les différentes  <e2> phases </e2> de la vie de Muhammad .
+Entity-Destination(e1,e2)	Il vient d'envoyer des  <e1> spam </e1> aux  <e2> clients </e2> .
+Entity-Origin(e1,e2)	La Panna Cotta était moyenne, à l'exception du  <e1> sirop </e1> de  <e2> prune </e2> qui était un peu soporifique .
+Message-Topic(e2,e1)	Le cabinet d'avocats basé à Londres, a cassé les  <e1> nouvelles </e1> dans une brève  <e2> déclaration </e2> sur le site officiel de Tottenham .
+Cause-Effect(e2,e1)	L'échelle Fujita est utilisée pour évaluer l'intensité d'une tornade en examinant les  <e1> dégats </e1> causés par la  <e2> tornade </e2> après son passage sur une structure artificielle .
+Entity-Destination(e1,e2)	La nuit dernière, mon  <e1> ami </e1> a rencontré un  <e2> surfeur </e2> légendaire dans un bar .
+Message-Topic(e1,e2)	La  <e1> chanson </e1> critique essentiellement l' <e2> hypocrisie </e2> et le manque de soins des politiciens .
+Component-Whole(e1,e2)	Toutes les trois à cinq semaines en raison de la croissance du  <e1> sabot </e1> du  <e2> cheval </e2> , la chaussure est retirée et le sabot rogné .
+Other	Alors que le  <e1> ralentissement </e1> a rendu les  <e2> gens </e2> plus frugaux, les volumes d'enfouissement ont chuté .
+Entity-Destination(e1,e2)	La poursuite cherche à entrer des  <e1> motifs </e1> dans le  <e2> procès </e2> de Gibbs .
+Other	Todd était tout autant au niveau de ses  <e1> confrères </e1> de la  <e2> profession </e2> , dans ce pays, comme ce fut Marmaduke avec ses frères sur le banc .
+Other	Le nouveau  <e1> citoyen </e1> corporatif a atterri dans des  <e2> batailles </e2> juridiques .
+Message-Topic(e2,e1)	Plusieurs  <e1> sujets </e1> étaient liés par la  <e2> chanson </e2> .
+Member-Collection(e2,e1)	La plus grande  <e1> colonie </e1> de reproduction des  <e2> phoques </e2> gris est sur les ïles Monach, à l'ouest de Benbecula .
+Other	La trilogie a contribué à un nivellement par le bas de la réception du  <e1> roman </e1> par les  <e2> forces </e2> de commercialisation de masse .
+Entity-Destination(e1,e2)	Une  <e1> voiture </e1> est allée dans la  <e2> rivière </e2> avec un homme et un bébé à l'intérieur .
+Message-Topic(e1,e2)	Nous sommes heureux de relayer les  <e1> nouvelles </e1> que les divers  <e2> problèmes de droits </e2> ont été résolus .
+Instrument-Agency(e2,e1)	Les pauses de l' <e1> équipe </e1> SWAT ouvrir une porte au 2ème étage avec un  <e2> bélier </e2> .
+Product-Producer(e2,e1)	Au premier plan, une grande pierre dressée, sculptée dans les capitales romaines, présente encore le nom d'un  <e1> constructeur </e1> de mausolées et  <e2> cénotaphes </e2> .
+Product-Producer(e1,e2)	Elle est devenue la troisième  <e1> chanson </e1> du  <e2> groupe </e2> pour entrer dans le top 5 du classement des singles au Royaume-Uni .
+Member-Collection(e1,e2)	Le  <e1> chef </e1> du  <e2> parti politique </e2> qui remporte le plus de sièges est responsable de la formation du gouvernement et devient ainsi le premier ministre .
+Entity-Destination(e1,e2)	Ces jardiniers ont envoyé les  <e1> feuilles </e1> dans la  <e2> rue </e2> .
+Member-Collection(e1,e2)	Ces pages ont pour but de vous aider à accéder à des  <e1> catalogues </e1> de  <e2> livres </e2> de bibliothèque belges sur Internet .
+Other	Un  <e1> homme </e1> d'Oxford avec la lèpre depuis plus de 20 ans a été guéri par l' <e2> eau </e2> .
+Message-Topic(e1,e2)	Le New York Times a imprimé une  <e1> histoire </e1> alléguant l' <e2> existence </e2> d'une navette spatiale militaire classifiée .
+Content-Container(e1,e2)	Le  <e1> cerveau </e1> de l'homme était dans un  <e2> bocal </e2> sur mon bureau, mais pour tout ce que je sais qu'il pourrait être quelque part à la pratique du droit .
+Member-Collection(e2,e1)	Il y a un  <e1> stand </e1> de  <e2> flamants </e2> roses juste au-delà des vasières, où la brochure met en garde de ne pas risquer .
+Cause-Effect(e2,e1)	Ceci est l'une des causes les plus fréquentes de  <e1> perte de cheveux </e1> causée par le  <e2> stress </e2> et quand vous perdez les cheveux à cause de cela votre chevelure cesse de croître et reste en sommeil .
+Other	Son épreuve tragique a jeté notre  <e1> nation </e1> en  <e2> deuil </e2> .
+Message-Topic(e1,e2)	Le  <e1> film </e1> tourne autour d'un  <e2> cadavre </e2> qui semble porter malheur à ceux qui viennent en contact avec lui .
+Content-Container(e1,e2)	Il a changé la  <e1> litière </e1> dans le  <e2> bac à litière </e2> de son animal de compagnie .
+Message-Topic(e1,e2)	Je salue les  <e1> nouvelles </e1> de la conclusion d’un  <e2> accord </e2> global sur les bananes .
+Component-Whole(e1,e2)	La  <e1> tige </e1> de la  <e2> plante </e2> est utilisée pour la fabrication de nattes pour revêtement de sol ainsi que la décoration .
+Other	La  <e1> tribune </e1> compléte le  <e2> hall </e2> autour de la terre, et il augmentera le nombre de places à l'endroit où il devrait être .
+Entity-Origin(e1,e2)	Douze double page se  <e1> propagent </e1> du  <e2> livre </e2> sont agrandies et reproduites pour accrocher avec l'exposition pour illustrer quelques-unes des techniques utilisées dans la création de l'oeuvre dans l'exposition .
+Entity-Origin(e1,e2)	Les  <e1> héros </e1> de nos  <e2> films </e2> passés sont de retour et ils participent maintenant à Mortal Kombat pour sauver leurs amis d'une mort certaine .
+Entity-Destination(e1,e2)	Les travailleurs de la construction ont remis la  <e1> pétition </e1> au  <e2> gouverneur </e2> .
+Entity-Destination(e1,e2)	L' <e1> équipe </e1> de recherche va dans la  <e2> jungle </e2> profonde de l'Amazonie .
+Entity-Destination(e1,e2)	Notre  <e1> personnel </e1> a approché beaucoup de  <e2> gens </e2> pour l'enquête de produits .
+Product-Producer(e2,e1)	Mon  <e1> grand-père </e1> révèle en racontant une  <e2> histoire </e2> de famille humoristique quelques-uns de ses ancêtres .
+Other	Par rapport à la course pieds nus, les  <e1> chaussures </e1> de  <e2> course </e2> traditionnelles augmente le stress sur les articulations du genou jusqu'Ã  38% .
+Instrument-Agency(e1,e2)	Par exemple, la photo en haut de la page montre la  <e1> trousse </e1> d'urgence d'un  <e2> pilote </e2> avec une boussole de type montre .
+Component-Whole(e1,e2)	Au bas des  <e1> marches </e1> de l' <e2> église </e2> , il y a avait trois paroissiens bruns; deux autres étaient juchés en équilibre précaire sur la balustrade du pont .
+Other	L' <e1> activation </e1> Meon a été faite avec une  <e2> source </e2> de lumière en faisant rebondir, le fractionnement, et en changeant la couleur des faisceaux .
+Product-Producer(e2,e1)	Les commissaires du comté avaient cédé au quartier une acre de terre, et le  <e1> travail </e1> des bénévoles avaient mis en place un  <e2> bâtiment </e2> .
+Message-Topic(e1,e2)	J'ai lu le  <e1> rapport </e1> de la Somalie sur l' <e2> accord </e2> conclu par les dirigeants de faction sur la forme d'un futur gouvernement qui a été chaleureusement accueilli .
+Product-Producer(e1,e2)	Il y a un  <e1> coeur </e1> caoutchouteux de silicone, créé par un  <e2> artiste </e2> américain pour chuchoté 5000, livres pour explorer la visualisation 3D et des moyens d'éliminer les tremblements .
+Other	Ce forum est dédié à la fin de Lou Alessi, un  <e1> artisan </e1> du  <e2> cuir </e2> dévoué et un tout autour de monsieur .
+Message-Topic(e1,e2)	Cet  <e1> article </e1> explique les discours et les  <e2> difficultés </e2> linguistiques des enfants d'âge préscolaire rencontrent et comment les parents et les premières années peuvent aider les travailleurs .
+Product-Producer(e2,e1)	Hommages ont été payés à l' <e1> écrivain </e1> qui a créé Goodness Gracious Me, la BBC a produit la  <e2> série </e2> télévisée .
+Other	Je l'ai utilisé pour payer une  <e1> charretée </e1> de  <e2> bois </e2> je l'ai acheté d'un paysan .
+Cause-Effect(e2,e1)	Les  <e1> couleurs </e1> de l'arc sont causées par la  <e2> dispersion </e2> de la lumière qui passe à travers un prisme .
+Message-Topic(e1,e2)	Un groupe de  <e1> discussion </e1> , qui a mis l'accent sur des questions telles que la  <e2> violence </e2> familiale et les relations craintives a eu lieu à l'Université de Rio Grande .
+Product-Producer(e2,e1)	Les téléphones annoncés par Vodafone hier continuent la tendance de mettre la marque de l'opérateur avant devant le  <e1> fabricant </e1> du  <e2> combiné </e2> .
+Message-Topic(e2,e1)	La  <e1> position </e1> de l'Eglise catholique en la matière est définie dans le  <e2> droit canonique </e2> .
+Member-Collection(e2,e1)	Après avoir terminé ma  <e1> suite </e1> de  <e2> conférences </e2> provisoirement au moins, je suis de retour dans le bureau de travail aujourd'hui avec la masse habituelle des e-mails qui accompagnent toujours une période d'absence de l'ordinateur .
+Content-Container(e2,e1)	Nous avons acheté ce  <e1> cadre </e1>  <e2> photo </e2> pour la belle-mère et aprés avoir mis les photos d’elle j'étais tellement content que je suis retourné et acheté un autre pour ma mère .
+Content-Container(e1,e2)	Un  <e1> doigt </e1> humain a été trouvé dans une  <e2> boite </e2> de soupe de Menudo .
+Entity-Destination(e1,e2)	Les  <e1> envois </e1> sont arrivés dans le  <e2> stock </e2> .
+Instrument-Agency(e2,e1)	Votre  <e1> médecin </e1> indique votre tension artérielle en utilisant un  <e2> sphygmomanomètre </e2> , qui est l'instrument de mesure de la pression artérielle .
+Entity-Destination(e1,e2)	La Wheelchair Foundation a fait don de  <e1> fauteuils roulants </e1> aux  <e2> personnes </e2> ayant des problèmes physiques dans cent pays .
+Member-Collection(e2,e1)	La  <e1> troupe </e1> de  <e2> danseurs </e2> Eichmann de jeunes talents a présenté le conte de fées classique auparavant .
+Member-Collection(e1,e2)	Dans le cas des entreprises publiques chaque  <e1> citoyen </e1> est membre de la  <e2> société </e2> .
+Entity-Destination(e1,e2)	Nous avons envoyé le  <e1> nom d'hôte </e1> au  <e2> serveur </e2> principal .
+Content-Container(e2,e1)	La  <e1> coque </e1> renferme une  <e2> barre </e2> ayant une couche de nickel avec une teneur en phosphore .
+Other	La  <e1> réunion </e1> a commencé au début de 8h30  <e2> heure </e2> courante .
+Message-Topic(e2,e1)	Les thèmes de l' <e1> amour </e1> et la gaieté se reflètent dans la  <e2> sculpture </e2> , tout comme les éléments de la nature, des lignes courbes et l'asymètrie .
+Message-Topic(e1,e2)	Toutefois, seuls 20  <e1> articles </e1> de recherche ont été identifiés sur le thème de la  <e2> promotion </e2> de la santé à la retraite .
+Message-Topic(e1,e2)	Lors d'une récente  <e1> réunion </e1> sur le sujet épineux du  <e2> commerce </e2> du gaz entre la Russie et l'Ukraine, le Premier ministre russe Vladimir Poutine a déclaré que Mme Timochenko était une femme avec qui il pouvait faire des affaires .
+Product-Producer(e1,e2)	Lorsque Victor Hugo reçut un  <e1> poème </e1> écrit par un  <e2> travailleur </e2> , sa réponse embarrassée et condescendante était dans votre beau vers il y a quelque chose de plus qu’un beau vers .
+Member-Collection(e2,e1)	Obama adaptait la tactique pour promouvoir le principe américain du substratum rocheux selon lequel tout le monde mérite une  <e1> phalange </e1> d' <e2> avocats </e2> .
+Message-Topic(e1,e2)	Desperados est une  <e1> série dramatique </e1> pour les enfants CBBC suite à une  <e2> équipe </e2> de basket-ball en fauteuil roulant .
+Message-Topic(e2,e1)	Depuis lors, d'autres  <e1> libertés </e1> civiles ont été exposées dans d'autres  <e2> lois </e2> constitutionnelles .
+Cause-Effect(e2,e1)	Je ne vais pas vous dire combien la musique signifie maintenant, en ces temps, lorsque vous luttez contre la  <e1> dépression </e1> du  <e2> chômage </e2> .
+Member-Collection(e2,e1)	Mais ils ont perdu leur enfant, Arife, ici, dans le  <e1> tas </e1> de  <e2> tentes </e2> glacées et boueuses où les survivants gagnent leur vie .
+Other	Le  <e1> broyage </e1> de  <e2> pierre </e2> aplatit la base du ski, enlève la matière de base brulée et endommagée et fournit des micro-structure importantes .
+Other	Le  <e1> cercueil </e1> de l'enfant est porté à l' <e2> enterrement </e2> de ses oncles .
+Message-Topic(e1,e2)	Les spectacles ont été marqués par une certaine  <e1> controverse </e1> en ce qui concerne les  <e2> billets </e2> .
+Other	Nous avons navigué jusqu’à la grotte de Neptune en  <e1> excursion </e1> en bateau à partir du  <e2> port </e2> .
+Content-Container(e1,e2)	Le  <e1> café </e1> que nous avions était dans une  <e2> tasse </e2> de la taille d'un dé à coudre, et il était si fort .
+Message-Topic(e1,e2)	Ce  <e1> document </e1> se penche sur la  <e2> diversité </e2> des arts et de la créativité en Angleterre rurale et le rôle clé que jouent les arts dans la régénération rurale .
+Other	Un dispositif de verrouillage fixe de manière amovible et engage de manière étanche une fermeture autour d'une  <e1> ouverture </e1> dans un  <e2> tonneau </e2> .
+Instrument-Agency(e2,e1)	Ansari allegdely bombardée Jhaveri Bazaar et la  <e1> famille </e1> a pris le  <e2> taxi </e2> à la porte d'entrée de l'Inde .
+Entity-Destination(e1,e2)	Rythmbox déplace la  <e1> chanson </e1> dans le  <e2> lecteur MP </e2> .
+Content-Container(e1,e2)	Il y a une récompense pour toute information menant au tueur d'un homme dont le  <e1> corps </e1> démembré a été retrouvé dans un  <e2> panier </e2> .
+Content-Container(e2,e1)	Le  <e1> jouet </e1> Cat était rempli de  <e2> détritus </e2> .
+Other	Le  <e1> transport </e1> actif est un  <e2> mécanisme </e2> évolué pour servir de médiateur le trafic à travers les membranes cellulaires .
+Other	 <e1> Soufflé </e1> de  <e2> nuages </e2> blancs se promenaient le long du ciel .
+Member-Collection(e2,e1)	Sa réputation en tant qu' <e1> entreprise </e1> efficace des  <e2> comptables </e2> a grandi et a attiré un grand nombre d'entreprises .
+Component-Whole(e2,e1)	L' <e1> os </e1> est construit à partir de nombreux types de  <e2> cellules </e2> et jusqu'à présent, nous avons seulement étudié les ostéoblastes humains .
+Content-Container(e1,e2)	L' <e1> argent </e1> a été stocké dans des  <e2> enveloppes </e2> rouges avec l'écriture chinoise .
+Member-Collection(e2,e1)	Cette machine est un  <e1> cluster </e1> de 3240  <e2> ordinateurs </e2> , chacun avec 40 coeurs de traitement et comprend AMD et les processeurs cellulaires .
+Message-Topic(e1,e2)	Une  <e1> question </e1> a été posée en ce qui concerne l' <e2> annonce </e2> publique des noms des trois finalistes .
+Message-Topic(e2,e1)	Les  <e1> relations </e1> entre les humains de races différentes ont été représentées en  <e2> série </e2> plus moderne .
+Content-Container(e1,e2)	Le coût du  <e1> carburant </e1> livré dans un  <e2> bunker </e2> de navire est toujours élevé .
+Other	La différence, cependant, est que cette recherche a ciblé les  <e1> phagocytes </e1> avec les  <e2> nanoparticules </e2> de polymère, et non les cellules cancéreuses elles-mêmes .
+Cause-Effect(e1,e2)	La  <e1> collision </e1> a entrainé deux  <e2> accidents </e2> dans l'intersection, y compris un camion central en bâton qui était sur le point de tourner à gauche sur l'avenue College .
+Instrument-Agency(e2,e1)	Après avoir fini le cablage, les  <e1> électriciens </e1> utilisent  <e2> ohmmètres </e2> , voltmètres et oscilloscopes pour mesurer la quantité de fonctionnement de l'électricité à travers le système .
+Member-Collection(e2,e1)	De la ville, les guerriers rouges se précipitaient vers nous, et de la jungle la  <e1> horde </e1> sauvage des  <e2> hommes </e2> verts venaient nous rencontrer .
+Component-Whole(e2,e1)	Ces  <e1> écouteurs </e1> ont un  <e2> corde </e2> courte afin de ne pas emmeller ou créer une tranchée tout immergée dans l'eau .
+Cause-Effect(e2,e1)	Un oreiller, en bon support du cou peut être utilisé pendant que vous dormez pour remédier à la  <e1> douleur </e1> au cou, causé par les  <e2> contraintes </e2> et les déformations de votre routine quotidienne .
+Other	La  <e1> levure </e1> est un ingrédient pour la fabrication de la  <e2> bière </e2> .
+Entity-Origin(e1,e2)	Alors que le  <e1> bateau </e1> navigua loin du  <e2> port </e2> , l'équipage se sentit de plus en plus mal à l'aise à la vue des signes qu'il observa .
+Instrument-Agency(e2,e1)	Sur les instruments à cordes arrêtable, comme le violon ou la guitare, le  <e1> joueur </e1> raccourcit la longueur vibrante de la  <e2> corde </e2> .
+Product-Producer(e1,e2)	Les  <e1> anecdotes </e1> personnelles recueillies lors d'entretiens oraux avec les  <e2> travailleurs </e2> ruraux et leurs alliés ajoutent un élément humain convaincant au livre .
+Message-Topic(e1,e2)	Le  <e1> film </e1> a présenté un  <e2> mouton </e2> comme le monstre mutées titulaire, ce qui grossit tout au long du film, jusqu'à ce qu'il explose dans la scène culminante .
+Entity-Destination(e1,e2)	Les  <e1> cerveaux </e1> de souris ont été retirés dans un  <e2> plat </e2> de 35 mm .
+Entity-Destination(e1,e2)	Une forte  <e1> tempète </e1> se déplace dans la  <e2> ville </e2> .
+Member-Collection(e1,e2)	Les  <e1> histoires </e1> de Carolyn Cooke ont été présentées dans le  <e2> livre </e2> .
+Other	Un  <e1> comité </e1> assiste la  <e2> Commission </e2> dans la mise en oeuvre du programme .
+Component-Whole(e1,e2)	Les  <e1> nervures </e1> sont renforcées par des pointes métalliques, auxquelles sont cousues le tissu du  <e2> parapluie </e2> .
+Other	Les  <e1> flammes </e1> jaunes indiquent le  <e2> sentier </e2> .
+Cause-Effect(e2,e1)	Les  <e1> dommages </e1> causés par une  <e2> balle </e2> dépend de la quantité d'énergie qu'il transfère aux tissus .
+Product-Producer(e2,e1)	Un  <e1> musicien </e1> qui a écrit un  <e2> album </e2> décrivant kamikazes a dit qu'il est prêt à être emprisonné dans une nouvelle législation antiterroriste .
+Entity-Destination(e1,e2)	J'importais les anciens  <e1> fichiers </e1> de documents dans le nouveau  <e2> logiciel </e2> .
+Entity-Destination(e1,e2)	Déjà au cours des dernières années, les  <e1> cygnes </e1> Iowa soulevées ont migré dans les  <e2> régions </e2> de l'Illinois près de Savanna où ils ont eu une installation réussie .
+Cause-Effect(e1,e2)	 <e1> Névralgie </e1> (TN) est la cause la plus fréquente de  <e2> migraine </e2> sinusite chronique .
+Product-Producer(e2,e1)	Certes, il a fait à l' <e1> écrivain </e1> à l'agence de publicité Saatchi de qui écrit au crayon un  <e2> story-board </e2> montrant un LandCruiser émergeant de l'autre côté du monde .
+Other	La  <e1> bibliométrie </e1> est un outil de plus en plus important pour l' <e2> évaluation de la recherche </e2> .
+Other	Il y a des  <e1> préoccupations </e1> juridiques graves par rapport aux  <e2> cas </e2> de ce genre et ce sont les facteurs que nous devons garder à l'esprit au moment de décider ce que nous publions ou de diffusion .
+Instrument-Agency(e2,e1)	Un  <e1> maçon </e1>  <e2> brique </e2> est capable d'utiliser les matériaux avec des outils à main et est capable de mélanger le mortier correctement afin de tenir tout ensemble .
+Cause-Effect(e2,e1)	La répartition des  <e1> dommages </e1> causés par le  <e2> tremblement </e2> de terre de Valdivia par rapport à la forme du terrain .
+Entity-Destination(e1,e2)	Mes  <e1> pieds </e1> sont enfoncés  <e2> plancher </e2> le sol .
+Other	Ma  <e1> tante </e1> a été mise en souffrance des  <e2> soins </e2> avec la perte de mémoire .
+Entity-Origin(e1,e2)	Après la récupération, trois  <e1> tortues </e1> secourues sortent de leurs  <e2> coquilles </e2> .
+Component-Whole(e2,e1)	Ce  <e1> lave-vaisselle </e1> est simple, des  <e2> commandes </e2> électroniques simples .
+Product-Producer(e2,e1)	Dans les années 1960, une université du Wisconsin  <e1> étudiant </e1> diplômé du nom de Thomas Crocker est venu avec une nouvelle  <e2> solution </e2> pour les problèmes environnementaux .
+Component-Whole(e1,e2)	Ce test est effectué avec le patient assis ou debout et avec l'examinateur tenant le  <e1> bras </e1> du  <e2> patient </e2> fléchit Ã 90 degrés .
+Message-Topic(e1,e2)	La  <e1> première partie </e1> donne une introduction aux  <e2> techniques </e2> de sécurité, où l'analyse des risques joue un rôle important .
+Other	La  <e1> fleur </e1> été faite avec  <e2> cordon </e2> tricoté bobine sur un métier à tisser de fleurs .
+Other	Bien qu'il revienne d'abord à sa femme et ses enfants, à leur retour d' <e1> évacuation </e1> après la  <e2> guerre </e2> , Pavel voit maintenant sa femme comme écoeurante et bourgeoise .
+Component-Whole(e1,e2)	Palomino-kum Long Point crayon fait un long  <e1> point </e1> de  <e2> crayon </e2> en 2 étapes, d'abord affûter le bois et la précision d'affûtage en pointe de graphite .
+Entity-Origin(e1,e2)	Les  <e1> cadets </e1> ont quitté la  <e2> formation </e2> avec des sourires sur leurs visages comme ils ont fait le voyage de retour dans leurs écoles .
+Entity-Origin(e1,e2)	Les  <e1> morceaux </e1> de glace sont tombés d'un  <e2> avion </e2> .
+Component-Whole(e1,e2)	Sons de trompettes, cornemuses et orgue d'église tous apparaissent des  <e1> cordes </e1> du  <e2> violoncelle </e2> .
+Other	Le  <e1> texte </e1> traite bien tout ce  <e2> matériel </e2> , en l'intégrant dans le flux de l'argument .
+Other	Un  <e1> couple </e1> enlacé à côté de véhicules empilés par les  <e2> eaux </e2> de crue à Tlalnepantla, Mexique .
+Entity-Destination(e1,e2)	L' <e1> air </e1> est soufflé dans l' <e2> microphone </e2> .
+Instrument-Agency(e2,e1)	Les  <e1> associations </e1> de condos se tournent vers les  <e2> séquestres </e2> pour percevoir le loyer sur les unités saisies .
+Other	La première fois que j'entendu parler de la  <e1> crise </e1> était de mon  <e2> patron </e2> .
+Entity-Destination(e1,e2)	Cette  <e1> érudition </e1> a été décernée à un  <e2> étudiant </e2> remarquable pour son excellence académique reconnaissant .
+Cause-Effect(e2,e1)	L' <e1> interprétation erronée </e1> a été provoquée par le  <e2> mot </e2> italien pour tubes à vide, qui est valvole (ou Tubi un vuoto) .
+Cause-Effect(e2,e1)	Le gouvernement irakien actuel demande une compensation financière d'Israël pour les  <e1> dommages </e1> causés par le  <e2> bombardement </e2> du réacteur nucléaire à Osirak en 1981 .
+Cause-Effect(e2,e1)	L'ampleur de la  <e1> mort </e1> et les destructions causées par le  <e2> tsunami </e2> du lendemain de Noêl 2004 est impossible à comprendre, même cinq ans après .
+Cause-Effect(e2,e1)	En tant que guitariste, je reçois tant de  <e1> satisfaction </e1> du  <e2> jeu </e2> et de l'exécution de la musique .
